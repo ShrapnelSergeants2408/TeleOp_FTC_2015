@@ -1,0 +1,10 @@
+Motors
+  
+  Right Motors = Right
+  Left Motors = Left
+  Intake = Intake1
+  Conveyor = Convey1
+  
+Servos
+  
+  Ball Release = BallTilt
